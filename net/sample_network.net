@@ -1,0 +1,14 @@
+*Vertices 5
+1	Node1
+2	Node2
+3	Node3
+4	Node4
+5	Node5
+
+
+*Edges
+1	2
+1	4
+3	2
+4	3
+4	5
