@@ -1,8 +1,10 @@
 # Finding control hubs in complex networks
 
+#### A node may occupy distinct positions in control paths of different control schemes, i.e., it may be a driver, a tail, or a middle node in different control schemes. Some nodes may always remain as middle nodes in all control schemes, and such nodes are defined as control hubs. All control hubs can be identified in polynomial time without computing all control schemes.
+
 ### This method was cited in:
-### 1. Total controllability analysis discovers explainable drugs for Covid-19 therapy and prevention
-### 2.Identification of cancer keeping genes as therapeutic targets by finding network control hubs
+#### 1. Total controllability analysis discovers explainable drugs for Covid-19 therapy and prevention
+#### 2.Identification of cancer keeping genes as therapeutic targets by finding network control hubs
 
 
 ### "/src/main"
