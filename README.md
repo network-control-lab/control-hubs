@@ -6,7 +6,7 @@
 #### 1. **_"Total controllability analysis discovers explainable drugs for Covid-19 therapy and prevention." Wei et al._**
 #### 2. **_"Identification of cancer keeping genes as therapeutic targets by finding network control hubs." Zhang et al._**
 
-
+### Project explanation:
 #### 1. "/src/main"
 The path "/src/main" is the main function of the code, which provides the "node_classification","sensitive_control_hub" and the "control_scheme" calculation function.
 #### 2. "/src/control_package"
