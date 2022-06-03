@@ -1,4 +1,8 @@
-# Identification of cancer keeping genes as therapeutic targets by finding network control hubs
+# Finding control hubs in complex networks
+
+### This method was cited in:
+### 1. Total controllability analysis discovers explainable drugs for Covid-19 therapy and prevention
+### 2.Identification of cancer keeping genes as therapeutic targets by finding network control hubs
 
 
 ### "/src/main"
