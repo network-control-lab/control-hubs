@@ -12,7 +12,7 @@ The path "/src/main" is the main function of the code, which provides the "node_
 #### 2. "/src/control_package"
 The path "/src/control_package" contains the functions required by the main function to ensure that the main function can be executed successfully.
 #### 3. "/net"
-The path "/net" contains the BLCA network mentioned in the paper, and a sample network "sample_network.net".
+The path "/net" contains the network mentioned in the paper, and a sample network "sample_network.net".
 #### 4. "/result"
 The path "/result" records the results obtained by executing the main function.
 #### If you want to use the functions we provide, please put a network file in a specific format into the "/net" folder and execute the "/src/main/demo.java" file, you can select the functions you want to execute and annotate the functions you don't want to execute.
