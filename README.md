@@ -11,7 +11,7 @@
 The path "/src/main" is the main function of the code, which provides "node_classification","sensitive_control_hub" and "control_scheme" function.
 #### 2. "/src/control_package"
 The path "/src/control_package" contains the functions required by the main function to ensure that the main function can be executed successfully.
-#### 3. "/net" (Original data)
+#### 3. "/net" (sample data)
 The path "/net" contains the network mentioned in the paper, and a sample network "sample_network.net".
 #### 4. "/result"
 The path "/result" records the results obtained by executing the main function.
