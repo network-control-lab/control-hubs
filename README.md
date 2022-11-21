@@ -15,4 +15,6 @@ The path "/src/control_package" contains the functions required by the main func
 The path "/net" contains the network mentioned in the paper, and a sample network "sample_network.net".
 #### 4. "/result"
 The path "/result" records the results obtained by executing the main function.
+#### 5. "/Supplementary materials"
+Raw data for research using the control hub method.
 #### If you want to use the functions we provide, please put a network file in a specific format into the "/net" folder and execute the "/src/main/demo.java" file, you can select the functions you want to execute and annotate the functions you don't want to execute.
